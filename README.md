@@ -30,7 +30,9 @@ A living list of useful online tools, libraries, and platforms for CTFs (crypto,
 - **SageMathCell** — quick number theory & symbolic math in browser.  
   https://sagecell.sagemath.org/  
 - **Morse Translator** — online morse encoder/decoder.  
-  https://morsecode.world/international/translator.html  
+  https://morsecode.world/international/translator.html
+  Morse Code Translator — free online morse encoder/decoder with audio.
+  https://morsecodetranslatr.com/
 - **Big Numbers Calculator** — arbitrary big-int calc in browser.  
   http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm  
 - **Hash Identifier (Kali tool)** — fingerprint hash types.  
